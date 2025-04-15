@@ -1,0 +1,6 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+.navbar {
+    --bs-navbar-active-color: var(--bs-blue);
+}
